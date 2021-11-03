@@ -35,6 +35,6 @@
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.0-beta.9",
     "react-router-dom": "^5.0.1",
-    "validator": "^11.1.0"
+    "validator": "^13.7.0"
   }
 }
