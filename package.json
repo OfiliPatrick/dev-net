@@ -22,7 +22,7 @@
     "bootstrap": "^4.3.1",
     "concurrently": "^4.1.1",
     "create-react-app": "^3.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "gravatar": "^1.8.0",
     "joi": "^14.3.1",
     "jsonwebtoken": "^8.5.1",
